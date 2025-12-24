@@ -1,0 +1,10 @@
+{
+    "//":"VFIMamba model configuration for medical image slice interpolation",
+    "n_sequence":3,
+    "n_feat":16,
+    "n_block":2,
+    "vfimamba_F":16,
+    "vfimamba_depth":"[2,2,2,3,3]",
+    "vfimamba_M":false,
+    "vfimamba_local":2
+}
